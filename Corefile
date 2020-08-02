@@ -1,0 +1,5 @@
+example.domain {
+    file example.domain
+    log
+    whoami
+}
